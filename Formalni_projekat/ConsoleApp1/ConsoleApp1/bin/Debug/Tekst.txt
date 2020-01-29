@@ -1,0 +1,4 @@
+[var69]=69
+Ispis iz drugog file
+[var66]="tekst"
+[var67]=(([var69]/[var69])-100)*2

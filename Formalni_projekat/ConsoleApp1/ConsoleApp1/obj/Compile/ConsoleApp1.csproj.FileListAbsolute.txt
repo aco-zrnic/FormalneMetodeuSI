@@ -1,0 +1,4 @@
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\ConsoleApp1\bin\Compile\ConsoleApp1.exe.config
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\ConsoleApp1\bin\Compile\ConsoleApp1.exe
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\ConsoleApp1\obj\Compile\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\ConsoleApp1\obj\Compile\ConsoleApp1.exe

@@ -1,0 +1,14 @@
+
+[var0]= 	"string1" +"sasas"
+[var2]=+655+232 + (4*31+(4+1))/4 +"string2"+ [var0]+ "3211"
+[var3]=(23+54)/54
+[var3]=43+[var3]
+ovo je sad te dfefsad
+[var4] ="ovo se sas" +(4*3+(4+1))+[var3]
+[var4] = "konkatenacija"
+[var23] = +1
+[var90] dddd
+#trst
+[var]=4*3+(4+1)
+Ispis =[var90]+[var23]+43
+[var1]  =  (23+54)/54 +   "sasad"+

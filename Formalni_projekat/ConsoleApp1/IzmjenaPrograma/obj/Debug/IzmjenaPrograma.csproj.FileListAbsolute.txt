@@ -1,0 +1,7 @@
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\bin\Debug\IzmjenaPrograma.exe.config
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\bin\Debug\IzmjenaPrograma.exe
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\bin\Debug\IzmjenaPrograma.pdb
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\obj\Debug\IzmjenaPrograma.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\obj\Debug\IzmjenaPrograma.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\obj\Debug\IzmjenaPrograma.exe
+D:\Visual Studio 2018\C#\Formalni_proj\ConsoleApp1\IzmjenaPrograma\obj\Debug\IzmjenaPrograma.pdb
